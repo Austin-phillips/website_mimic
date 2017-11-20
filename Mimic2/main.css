@@ -1,0 +1,39 @@
+html {
+  background: grey;
+}
+
+h3 {
+  text-align: center;
+}
+
+.menu {
+  width: 210px;
+  height: 220px;
+  border: 2px dashed;
+}
+
+.image {
+  float: right;
+  margin: -245 240 0 0;
+  width: 550px;
+  height: 180px;
+}
+
+.table1 {
+  border-right: 3px solid;
+  width: 50%;
+  height: 300px;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+}
+
+.table2 {
+  text-align: center;
+  width: 50%;
+  height: 300px;
+  float: right;
+  margin: -320 0 0 0;
+}
